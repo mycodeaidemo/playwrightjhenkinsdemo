@@ -1,11 +1,1 @@
-(oct 29)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
 
-# show the key
-cat ~/.ssh/id_ed25519.pub
-
-
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINjRAmkFFNEqcpKnApCuqWv3PkNuQ5+SEWy2X6TlI5ji contactQA@yahoo.com
-
-
-
-clip < ~/.ssh/id_ed25519.pub
